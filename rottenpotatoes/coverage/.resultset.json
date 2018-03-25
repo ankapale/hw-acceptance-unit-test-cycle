@@ -98,12 +98,12 @@
       "/home/ec2-user/environment/hw3/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
         1,
         null,
-        1,
-        0,
+        null,
+        null,
         null,
         null
       ]
     },
-    "timestamp": 1521867598
+    "timestamp": 1522013068
   }
 }
